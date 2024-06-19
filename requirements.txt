@@ -1,0 +1,8 @@
+tensorflow==2.8.4
+tensorflow-gpu==2.8.4
+opencv-python==4.9.0.80
+numpy==1.26.4
+ultralytics>=8.1.42
+numpy>=1.26.4
+opencv-python>=4.9.0.80
+shapely>=2.0.3
