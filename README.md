@@ -2,7 +2,7 @@
 
 This project implements a Siamese Network for face recognition using live video feed. The Siamese Network is trained to distinguish between different faces by learning to differentiate between pairs of images.
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/shukur-alom/one-shot-Face-Recognition/blob/main/Media/Demo.mp4)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://fb.watch/sQ749czBId/)
 
 
 ## Table of Contents
