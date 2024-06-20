@@ -12,7 +12,6 @@ This project implements a Siamese Network for face recognition using live video 
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
