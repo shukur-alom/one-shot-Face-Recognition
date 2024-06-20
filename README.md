@@ -12,6 +12,9 @@ This project implements a Siamese Network for face recognition using live video 
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Contact](#Contact)
+
+
 
 ## Introduction
 
@@ -76,3 +79,8 @@ python main.py
 ## Contributing
 
 **Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.**
+
+## Contact
+
+For any questions or inquiries, you can reach me on LinkedIn:
+[Shukur Alam](https://github.com/shukur-alom/one-shot-Face-Recognition/blob/main/face-similarity-siamese-model.ipynb)
