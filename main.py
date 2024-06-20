@@ -22,7 +22,7 @@ def load_siamese_model(model_path):
     return load_model(model_path, custom_objects={'L1Dist': L1Dist})
 
 
-loaded_model = load_siamese_model('Model/face recognition/Model 1/my_model.h5')
+loaded_model = load_siamese_model('Model/face recognition/Model 2/my_model.h5')
 
 
 image1 = cv2.imread(
@@ -60,7 +60,7 @@ while True:
 
         pre = loaded_model.predict([image1_, extracted_image])[0][0]
         print(pre)
-        if pre > 0.5:
+        if pre > 0.4:
             pre = "Name"
         else:
             pre = "Unknown"
