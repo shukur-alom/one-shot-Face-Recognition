@@ -75,7 +75,7 @@ pip install -r requirements.txt
 Before run change the image path.
 ```bash
 python mavideo-capturingontributing
-
+```
 **Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.**
 
 ## Contact
