@@ -72,16 +72,13 @@ pip install -r requirements.txt
 1. **Prepare Dataset**: Ensure your dataset is organized as described in the Dataset Preparation section.
 2. **Train Model**: Run the training [NoteBook](https://github.com/shukur-alom/one-shot-Face-Recognition/blob/main/face-similarity-siamese-model.ipynb) to train the Siamese Network.
 3. **Run Real-Time Recognition**:Use the following command to start the real-time face recognition.
-Before run change image path.
+Before run change the image path.
 ```bash
-python main.py
-```
-
-## Contributing
+python mavideo-capturingontributing
 
 **Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.**
 
 ## Contact
 
 For any questions or inquiries, you can reach me on LinkedIn:
-[Shukur Alam](https://github.com/shukur-alom/one-shot-Face-Recognition/blob/main/face-similarity-siamese-model.ipynb)
+[Shukur Alam](https://www.linkedin.com/in/shukur-alam/)
