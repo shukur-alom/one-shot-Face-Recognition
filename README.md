@@ -74,8 +74,11 @@ pip install -r requirements.txt
 3. **Run Real-Time Recognition**:Use the following command to start the real-time face recognition.
 Before run change the image path.
 ```bash
-python mavideo-capturingontributing
+python main.py
 ```
+
+## contributing
+
 **Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.**
 
 ## Contact
